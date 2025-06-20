@@ -96,6 +96,7 @@ If you do not NVIDIA AI Workbench installed, first complete the installation for
 6. On the top right of the window, select **Jupyterlab**. 
 
 7. Navigate to the `code` directory of the project. Then, open your fine-tuning notebook of choice and get started. Happy coding!
+8. Alternatively, see [GGUF_TRAINING.md](GGUF_TRAINING.md) for a lightweight LoRA workflow that exports to `.gguf`.
 
 ## Tutorial (CLI-Only)
 Some users may choose to use the **CLI tool only** instead of the Desktop App. If you do not NVIDIA AI Workbench installed, first complete the installation for AI Workbench [here](https://www.nvidia.com/en-us/deep-learning-ai/solutions/data-science/workbench/). Then, 
@@ -144,6 +145,7 @@ Some users may choose to use the **CLI tool only** instead of the Desktop App. I
    * Specify the Hugging Face Token as a project secret.
 
 6. Navigate to the `code` directory of the project. Then, open your fine-tuning notebook of choice and get started. Happy coding!
+7. Alternatively, see [GGUF_TRAINING.md](GGUF_TRAINING.md) for a lightweight LoRA workflow that exports to `.gguf`.
 
 # License
 This NVIDIA AI Workbench example project is under the [Apache 2.0 License](https://github.com/NVIDIA/workbench-example-llama3-finetune/blob/main/LICENSE.txt)
